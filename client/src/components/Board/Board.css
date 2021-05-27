@@ -1,0 +1,14 @@
+p{
+    background-color: cadetblue;
+}
+#grid-container{
+    display: inline-grid;
+    padding-left: 20px;
+}
+#board{
+    border: 3px solid #000;
+}
+#float{
+   width: 53px;
+   float: left;
+}
